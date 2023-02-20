@@ -1,1 +1,10 @@
-
+title: [The 'Up' arrow is not displayed on the footer of the site]
+ description: [The "Up" arrow does not appear either after refreshing the page]
+  steps to reproduce: 
+    [open the main page of the site]
+    [scroll to the footer of the site]
+    [pay attention to the right corner of the site]
+  expected result: [The 'Up' arrow is displayed in the right corner of the site]
+  actual result: [The 'Up' arrow is not displayed in the right corner of the site]
+  severity: [Major]
+  resolution: [Open]
