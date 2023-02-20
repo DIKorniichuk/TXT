@@ -1,0 +1,5 @@
+Favorite movie: [Interstellar]
+Favorite tv show: [Friends]
+Favorite food: [Pizza]
+Favorite season: [Summer]
+Place to visit: [USA]
